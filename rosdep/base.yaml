@@ -5320,3 +5320,35 @@ zziplib:
   opensuse: [zziplib-devel]
   rhel: [zziplib-devel]
   ubuntu: [libzzip-0-13, libzzip-dev]
+intel-realsense-dfu:
+  ubuntu: [intel-realsense-dfu]
+librealsense2:
+  ubuntu: [librealsense2]
+librealsense2-dbg:
+  ubuntu: [librealsense2-dbg]
+librealsense2-dev:
+  ubuntu: [librealsense2-dev]
+librealsense2-dkms:
+  ubuntu: [librealsense2-dkms]
+librealsense2-udev-rules:
+  ubuntu: [librealsense2-udev-rules]
+librealsense2-utils:
+  ubuntu: [librealsense2-utils]
+librscalibrationapi:
+  ubuntu: [librscalibrationapi]
+librscalibrationtool:
+  ubuntu: [librscalibrationtool]
+realsense-sdk:
+  ubuntu: [realsense-sdk]
+realsense-sdk-dbg:
+  ubuntu: [realsense-sdk-dbg]
+realsense-sdk-dev:
+  ubuntu: [realsense-sdk-dev]
+realsense-sdk-udev-rules:
+  ubuntu: [realsense-sdk-udev-rules]
+realsense-sdk-utils:
+  ubuntu: [realsense-sdk-utils]
+rs-dfu-tool:
+  ubuntu: [rs-dfu-tool]
+realsense-uvcvideo:
+  ubuntu: [realsense-uvcvideo]
